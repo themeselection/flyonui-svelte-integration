@@ -1,4 +1,4 @@
-# sv
+# [FlyonUI](https://flyonui.com/) + [Svelte](https://svelte.dev/) Integration
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
