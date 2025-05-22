@@ -3,4 +3,4 @@
 @plugin "flyonui";
 @import "flyonui/variants.css";
 
-@source "../node_modules/flyonui/flyonui/index.js";
+@source "../node_modules/flyonui/flyonui.js";
